@@ -1,0 +1,4 @@
+
+CREATE TABLE SchoolSubject(
+    Test VARCHAR(100) PRIMARY KEY NOT NULL
+);
